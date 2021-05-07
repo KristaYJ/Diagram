@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-07T17:38:28.215Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="SXhLpE8RqBrL9juXy8fA" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-07T17:41:39.751Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="RA1iMeAgJRoFMT-3_2hm" version="14.6.11" type="github">
   <diagram id="xFNOrWiRcgRYx5PrVdhh" name="Page-1">
     <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -138,6 +138,21 @@
             <mxPoint x="560" y="350" as="sourcePoint" />
             <mxPoint x="480" y="350" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tzKKWCPiVwri3gs895Ib-35" value="학과로 검색한다." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tzKKWCPiVwri3gs895Ib-36" value="학번으로 검색한다." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tzKKWCPiVwri3gs895Ib-37" value="" style="endArrow=block;endSize=16;endFill=0;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tzKKWCPiVwri3gs895Ib-35" target="tzKKWCPiVwri3gs895Ib-16">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="440" y="470" as="sourcePoint" />
+            <mxPoint x="600" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tzKKWCPiVwri3gs895Ib-40" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="350" width="40" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
