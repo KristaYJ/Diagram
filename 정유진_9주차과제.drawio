@@ -1,1 +1,85 @@
-<mxfile host="app.diagrams.net" modified="2021-05-07T17:23:16.210Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" version="14.6.11" etag="tSXW29X3LuAcqU52XiNi" type="github"><diagram id="xFNOrWiRcgRYx5PrVdhh">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-07T17:32:41.266Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="soBr6nxdtIGE8g98WWwa" version="14.6.11" type="github">
+  <diagram id="xFNOrWiRcgRYx5PrVdhh" name="Page-1">
+    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tzKKWCPiVwri3gs895Ib-1" value="학생" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="203" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tzKKWCPiVwri3gs895Ib-3" value="교수" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="463" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tzKKWCPiVwri3gs895Ib-4" value="" style="endArrow=none;html=1;" edge="1" parent="1" target="tzKKWCPiVwri3gs895Ib-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="223" as="sourcePoint" />
+            <mxPoint x="280" y="123" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tzKKWCPiVwri3gs895Ib-5" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="223" as="sourcePoint" />
+            <mxPoint x="280" y="223" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tzKKWCPiVwri3gs895Ib-6" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="223" as="sourcePoint" />
+            <mxPoint x="280" y="323" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tzKKWCPiVwri3gs895Ib-7" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="483" as="sourcePoint" />
+            <mxPoint x="280" y="333" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tzKKWCPiVwri3gs895Ib-8" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="483" as="sourcePoint" />
+            <mxPoint x="280" y="413" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tzKKWCPiVwri3gs895Ib-9" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="483" as="sourcePoint" />
+            <mxPoint x="280" y="483" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tzKKWCPiVwri3gs895Ib-10" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="483" as="sourcePoint" />
+            <mxPoint x="280" y="553" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tzKKWCPiVwri3gs895Ib-11" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="483" as="sourcePoint" />
+            <mxPoint x="280" y="633" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tzKKWCPiVwri3gs895Ib-12" value="질문을 등록한다." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="110" width="120" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="tzKKWCPiVwri3gs895Ib-13" value="질문을 수정한다." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tzKKWCPiVwri3gs895Ib-15" value="질문을 삭제한다." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tzKKWCPiVwri3gs895Ib-16" value="질문을 검색한다." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tzKKWCPiVwri3gs895Ib-18" value="답변을 등록한다." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tzKKWCPiVwri3gs895Ib-19" value="답변을 수정한다." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="535" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="tzKKWCPiVwri3gs895Ib-20" value="답변을 삭제한다." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="610" width="120" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
